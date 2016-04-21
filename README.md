@@ -1,1 +1,1 @@
-# 如题
+# nginx,php,mysql配置
